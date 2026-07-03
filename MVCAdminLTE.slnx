@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MSS.Api/MSS.Api.csproj" Id="0808565d-1752-47bc-8303-865264b03384" />
+  <Project Path="MSS.Database/MSS.Database.csproj" Id="62e31977-94f5-4056-a0ce-61db73cbc4c9" />
+  <Project Path="MSS.Domain/MSS.Domain.csproj" Id="810df5ca-9791-45e8-b25f-0a13382cf989" />
+  <Project Path="MVCAdminLTE/MVCAdminLTE.csproj" />
+</Solution>

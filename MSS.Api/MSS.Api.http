@@ -1,0 +1,6 @@
+@MSS.Api_HostAddress = http://localhost:5007
+
+GET {{MSS.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
